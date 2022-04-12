@@ -1,3 +1,5 @@
+package ejercicio1;
+
 import java.sql.SQLException;
 
 public class Vis_Rutes_SQLite {
